@@ -1,0 +1,17 @@
+{
+  "args": {
+    "show_env": "1"
+  },
+  "headers": {
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip,deflate",
+    "Host": "httpbin.org",
+    "User-Agent": "Apache-HttpClient/4.5.13 (Java/17.0.3)",
+    "X-Amzn-Trace-Id": "Root=1-62f334df-302f17122b318f3925156814",
+    "X-Forwarded-For": "189.62.188.26",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "origin": "189.62.188.26",
+  "url": "https://httpbin.org/get?show_env=1"
+}
